@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5e -->
+
+<!-- CreationDate: Sat Nov 14 13:20:25 2015 -->
+
+<!-- Magnification: 1.050 -->
+
+<svg
+   width="457.547"
+   height="164.48599"
+   viewBox="1146 1855 6091.73 2187.0545"
+   id="svg3800"
+   version="1.1"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="plan_segment.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata3832">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3830" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview3828"
+     showgrid="false"
+     units="mm"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     inkscape:zoom="2.4722548"
+     inkscape:cx="222.87347"
+     inkscape:cy="19.617719"
+     inkscape:window-x="-9"
+     inkscape:window-y="1341"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3800"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     style="fill:none;stroke-width:0.025in"
+     id="g3802"
+     transform="translate(-26.999891,-21.464564)">
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 2362 4488 - 2362 1874-->
+    <!-- Line -->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 2362 4488 - 1310 5443-->
+    <!-- Line -->
+    <!-- Arrowhead on XXXpoint 2362 4488 - 5164 4868-->
+    <!-- Circle -->
+    <!-- Line -->
+    <!-- Circle -->
+    <!-- Line -->
+    <!-- Line -->
+  </g>
+  <polyline
+     points="2362,4488 2362,1906 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="polyline3804"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <polyline
+     points="2409 2046 2362 1888 2314 2046 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8"
+     id="polyline3806"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <polygon
+     points="3070,2125 5905,3070 4488,4488 1653,3543 "
+     style="fill:none;stroke:#00b000;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon3808"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <polyline
+     points="2362,4488 1334,5421 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="polyline3810"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <polyline
+     points="1404 5292 1320 5434 1468 5362 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8"
+     id="polyline3812"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <polyline
+     points="2362,4488 5132,4864 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="polyline3814"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <polyline
+     points="4986 4891 5149 4866 4999 4797 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8"
+     id="polyline3816"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <circle
+     cx="1997.5394"
+     cy="2359.9055"
+     r="40.108185"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:4.78904"
+     id="circle3818" />
+  <polyline
+     points="1181,1889 5669,4488 "
+     style="fill:none;stroke:#0000ff;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:62, 62"
+     id="polyline3820"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <circle
+     cx="2655.4333"
+     cy="2744.2256"
+     r="41.904072"
+     style="fill:#ff0000;stroke:#ff0000;stroke-width:4.78904"
+     id="circle3822" />
+  <polyline
+     points="5007,4110 5669,4488 "
+     style="fill:none;stroke:#0000ff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polyline3824"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <polyline
+     points="1181,1889 3637,3307 "
+     style="fill:none;stroke:#0000ff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polyline3826"
+     transform="matrix(0.5986296,0,0,0.5986296,470.43533,757.37403)" />
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:none;stroke-width:0.199252in"
+     x="1572.6251"
+     y="2437.2412"
+     id="text1613"><tspan
+       sodipodi:role="line"
+       id="tspan1611"
+       style="fill:#0000ff;stroke-width:0.199252in"
+       x="1572.6251"
+       y="2437.2412">A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:none;stroke-width:0.199252in"
+     x="1215.0698"
+     y="2210.7727"
+     id="text1613-9"><tspan
+       sodipodi:role="line"
+       id="tspan1611-3"
+       style="fill:#0000ff;stroke-width:0.199252in"
+       x="1215.0698"
+       y="2210.7727">L</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:none;stroke-width:0.199252in"
+     x="4410.4038"
+     y="2210.7727"
+     id="text1613-9-0"><tspan
+       sodipodi:role="line"
+       id="tspan1611-3-1"
+       style="fill:#0000ff;stroke-width:0.199252in"
+       x="4410.4038"
+       y="2210.7727">L</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:none;stroke-width:0.199252in"
+     x="2208.9304"
+     y="2402.4082"
+     id="text1613-3"><tspan
+       sodipodi:role="line"
+       id="tspan1611-7"
+       style="fill:#0000ff;stroke-width:0.199252in"
+       x="2208.9304"
+       y="2402.4082">B</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#00b000;fill-opacity:1;stroke-width:0.199252in"
+     x="3621.2209"
+     y="2743.6343"
+     id="text1613-3-0"><tspan
+       sodipodi:role="line"
+       id="tspan1611-7-63"
+       style="fill:#00b000;fill-opacity:1;stroke-width:0.199252in"
+       x="3621.2209"
+       y="2743.6343">P</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.199252in"
+     x="2620.6887"
+     y="2616.498"
+     id="text1613-3-9"><tspan
+       sodipodi:role="line"
+       id="tspan1611-7-2"
+       style="fill:#ff0000;stroke-width:0.199252in"
+       x="2620.6887"
+       y="2616.498">I</tspan></text>
+  <circle
+     cx="1646.6107"
+     cy="2149.4253"
+     r="41.904072"
+     style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:4.78904;stroke-opacity:1"
+     id="circle3822-5" />
+  <circle
+     cx="2202.4895"
+     cy="2481.5398"
+     r="41.904072"
+     style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:4.78904;stroke-opacity:1"
+     id="circle3822-5-1" />
+  <polyline
+     points="2362,4488 2362,1906 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="polyline3804-5"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <polyline
+     points="2409 2046 2362 1888 2314 2046 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8"
+     id="polyline3806-7"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <polygon
+     points="1653,3543 3070,2125 5905,3070 4488,4488 "
+     style="fill:none;stroke:#00b000;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polygon3808-2"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <polyline
+     points="2362,4488 1334,5421 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="polyline3810-0"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <polyline
+     points="1404 5292 1320 5434 1468 5362 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8"
+     id="polyline3812-7"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <polyline
+     points="2362,4488 5132,4864 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="polyline3814-9"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <polyline
+     points="4986 4891 5149 4866 4999 4797 "
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:8"
+     id="polyline3816-9"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <circle
+     cx="5185.5747"
+     cy="2359.9055"
+     r="40.108185"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:4.78904"
+     id="circle3818-5" />
+  <polyline
+     points="1181,1889 5669,4488 "
+     style="fill:none;stroke:#0000ff;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:62, 62"
+     id="polyline3820-1"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <circle
+     cx="5843.4688"
+     cy="2744.2256"
+     r="41.904072"
+     style="fill:#ff0000;stroke:#ff0000;stroke-width:4.78904"
+     id="circle3822-7" />
+  <polyline
+     points="5007,4110 5669,4488 "
+     style="fill:none;stroke:#0000ff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polyline3824-0"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <polyline
+     points="1181,1889 3637,3307 "
+     style="fill:none;stroke:#0000ff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+     id="polyline3826-5"
+     transform="matrix(0.5986296,0,0,0.5986296,3658.4707,757.37403)" />
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:none;stroke-width:0.199252in"
+     x="6814.9893"
+     y="3205.042"
+     id="text1613-4"><tspan
+       sodipodi:role="line"
+       id="tspan1611-9"
+       style="fill:#0000ff;stroke-width:0.199252in"
+       x="6814.9893"
+       y="3205.042">B</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:none;stroke-width:0.199252in"
+     x="5396.9658"
+     y="2402.4082"
+     id="text1613-3-5"><tspan
+       sodipodi:role="line"
+       id="tspan1611-7-6"
+       style="fill:#0000ff;stroke-width:0.199252in"
+       x="5396.9658"
+       y="2402.4082">A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.199252in"
+     x="5808.7241"
+     y="2616.498"
+     id="text1613-3-9-4"><tspan
+       sodipodi:role="line"
+       id="tspan1611-7-2-6"
+       style="fill:#ff0000;stroke-width:0.199252in"
+       x="5808.7241"
+       y="2616.498">I</tspan></text>
+  <circle
+     cx="6863.54"
+     cy="3335.9648"
+     r="41.904072"
+     style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:4.78904;stroke-opacity:1"
+     id="circle3822-5-9" />
+  <circle
+     cx="5390.5249"
+     cy="2481.5398"
+     r="41.904072"
+     style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:4.78904;stroke-opacity:1"
+     id="circle3822-5-1-0" />
+  <path
+     style="fill:none;stroke:#00b000;stroke-width:19.9708;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3587.8077,2455.9884 c -193.7594,188.5885 -71.2601,340.1519 176.2598,380.6244"
+     id="path339"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-size:255.043px;line-height:100%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#00b000;fill-opacity:1;stroke-width:0.199252in"
+     x="6816.5547"
+     y="2743.6343"
+     id="text1613-3-0-0"><tspan
+       sodipodi:role="line"
+       id="tspan1611-7-63-1"
+       style="fill:#00b000;fill-opacity:1;stroke-width:0.199252in"
+       x="6816.5547"
+       y="2743.6343">P</tspan></text>
+  <path
+     style="fill:none;stroke:#00b000;stroke-width:19.9708;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 6783.1413,2455.9884 c -193.7594,188.5885 -71.2601,340.1519 176.2598,380.6244"
+     id="path339-3"
+     sodipodi:nodetypes="cc" />
+</svg>
